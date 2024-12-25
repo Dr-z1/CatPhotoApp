@@ -13,7 +13,7 @@
   
 + This site was built using **[Free Code Camp](https://www.freecodecamp.org/).**
   
-+ This project is one of the **required tasks** to earn the certification in JavaScript Algorithms and Data Structures.
++ This project is one of the **required tasks** to earn the certification in Responsive Web Design.
 
 ## **Purpose**
 
