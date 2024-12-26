@@ -1,7 +1,7 @@
 # **Cat Photo App**
 ## **Project Overview**
 
-#### This project is a **Cat Photo App**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project is a **Cat Photo App**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Learn Html By Building A Cat Photo App.
 
