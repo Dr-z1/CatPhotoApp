@@ -1,9 +1,9 @@
 # **Cat Photo App**
 ## **Project Overview**
 
-#### This project is a **Cat Photo App**, developed as part of the FreeCodeCamp curriculum. 
+#### This project is a **Cat Photo App**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The primary goal is Learn Html By Building a Cat Photo App.
+#### The Primary Goal Is Learn Html By Building A Cat Photo App.
 
 ## **Course Details**
 
@@ -11,34 +11,34 @@
   
 + **Project Name**: Cat Photo App.
   
-+ This site was built using **[Free Code Camp](https://www.freecodecamp.org/).**
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
-+ This project is one of the **required tasks** to earn the certification in Responsive Web Design.
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
 ## **Purpose**
 
-**HTML tags** give a webpage its structure. 
+**HTML tags** Give A Webpage Its Structure. 
 
-You can use HTML tags to add photos, buttons, and other elements to your webpage.
+You Can Use HTML Tags To Add Photos, Buttons, And Other Elements To Your Webpage.
 
-In this course, you'll learn the most common **HTML tags** by building your own **cat photo app**.
+In This Course, You'll Learn The Most Common **HTML Tags** By Building Your Own **Cat Photo App**.
 
 ## **Acknowledgment**
 
-This project was created following the instructions provided by **FreeCodeCamp**.
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
-**All rights** to this project and its related materials belong to **FreeCodeCamp**, a free educational platform offering structured courses and hands-on projects.
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
-I am showcasing this project as part of my learning journey, completed based on FreeCodeCamp's resources and guidance.
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
-A big thank you to **FreeCodeCamp** for their well-structured curriculum, projects, and partially provided code snippets that made this project possible.
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-## **Special thanks**
+## **Special Thanks**
 
-I would also like to extend **my gratitude** to the following channels for their guidance in writing the code:
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
 **[@codeManS](https://www.youtube.com/@codeManS)**
 
 **[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-These resources provided valuable insights and helped me refine my coding skills.
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
